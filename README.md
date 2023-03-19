@@ -18,7 +18,7 @@
 ## Skills 💻
 
 * Some technologies I have used/ learned a little 😄 -> C#, .NetCore, HTML/CSS, Python, Git, Hibernate, JavaScript, JAVA, postgreSQL, 
-  AngularJS, ReactJS, NodeJS.
+  AngularJS, ReactJS, NodeJS. I'm currently learning VueJS!.
   
 * Knowledge of SCRUM methodologies.
 
