@@ -6,7 +6,7 @@
 ## Projects 📝
 
 * I am currently part of a team where we are building a management application for a ground movement company, 
- laying electric, aerial and underground networks and construction. Built using JAVA and PostgreSQL 
+ laying electric, aerial and underground networks and construction. Built using JAVA, Hibernate and MySQL 
       
 * I am also developing an IA Image Denoising using Denoising Autoencoders (DAEs), 
   where data is corrupted in some manner through the addition of random noise, and the model is trained 
@@ -17,7 +17,7 @@
 
 ## Skills 💻
 
-* Some technologies I have used/ learned a little 😄 -> C#, .NetCore, HTML/CSS, Python, Git, Hibernate, JavaScript, JAVA, postgreSQL, 
+* Some technologies I have used/ learned a little 😄 -> C#, .NetCore, HTML/CSS, Python, Git, Hibernate, JavaScript, JAVA, Hibernate, MySQL, postgreSQL, 
   AngularJS, ReactJS, NodeJS. I'm currently learning VueJS!.
   
 * Knowledge of SCRUM methodologies.
