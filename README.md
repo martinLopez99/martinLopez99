@@ -1,7 +1,6 @@
 ### Hello 👋
 
-* My name is Martin, I'm from Argentina and also an advanced student, always looking to expand his horizons through work and academic experiences, 
-  with the goal of being part of the development of quality technologies that would have a positive impact on our society.
+* My name is Martin, and I hail from Argentina. As an advanced student, I am constantly seeking new opportunities to broaden my horizons through both academic and professional experiences. My ultimate goal is to contribute to the development of innovative technologies that will have a positive impact on society
 
 ## Projects 📝
 
