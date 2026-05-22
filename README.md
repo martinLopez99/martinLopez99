@@ -1,95 +1,69 @@
-# Hi 👋 I'm Martin
+# Hi, I'm Martín 👋
 
-I'm a Backend / Full Stack Developer from Argentina with professional experience building and maintaining high-performance systems.
+I'm a Backend Developer from Argentina with 3+ years of professional experience building and maintaining high-throughput financial systems. I specialize in Java, Spring ecosystem, and batch processing, with a strong focus on performance optimization and clean, maintainable architecture.
 
-I currently work on production systems  focusing on performance optimization, backend architecture and integrations.
-
-I hold a degree as Systems Analyst and I'm currently finishing my Systems Engineering thesis.
-
-My goal is to continuously grow as a software engineer, working on scalable systems and modern architectures that solve real-world problems.
+I hold a degree in Systems Analysis (UTN, 2024) and am currently completing my Systems Engineering degree. I'm also a Fulbright alumnus (Indiana University, 2022) and hold a Cambridge B2 First certificate.
 
 ---
 
 ## 💼 Professional Experience
 
-- 2+ years working on high-volume systems (millions of records)
-- Backend development using Java (8/17), Spring Boot and Spring Batch
-- Database development with Oracle and PL/SQL
-- Performance optimization (query tuning, materialized views, caching strategies)
-- REST API development and external system integrations
-- CI/CD processes using Git and Jenkins
-- Database versioning with Flyway
-- Technical documentation and functional analysis
+- 3+ years developing and maintaining production systems handling millions of records in the financial sector
+- Backend engineering with **Java 8/17** (production) and ongoing migration of a legacy **Java 6** codebase to **Java 21**
+- Batch processing pipelines using **Spring Batch** and REST API development with **Spring Boot**
+- Database development and optimization with **Oracle PL/SQL** and **PostgreSQL** (~3 years)
+- Performance tuning: query optimization, materialized views, indexing strategies, and caching
+- Containerization with **Docker** and CI/CD pipelines via **Jenkins**
+- Database schema versioning and migrations with **Flyway**
+- Full-stack development in a smaller project using **Java 17**, **Angular 17**, and **TypeScript**
+- Experience working in Agile/Scrum teams with a strong ownership mentality
 
 ---
 
 ## 🚧 Projects
 
-### Financial Systems (Professional)
-Backend development for investment and financial instrument platforms.
-- End-to-end feature development
-- Batch processing and external integrations
-- Production support and system optimization
-
 ### Ground Movement Management System
-Java, Hibernate, MySQL  
+**Java · Hibernate · MySQL**
 Management system for infrastructure and electrical network operations.
 
 ### AI Image Denoising (Academic)
-Python  
-Denoising Autoencoders (DAE) implementation for corrupted image reconstruction.
+**Python**
+Implementation of Denoising Autoencoders (DAE) for corrupted image reconstruction.
 
 ### Programming Job Board
-HTML, Bootstrap, CSS, JavaScript, Node.js, Express  
-Full stack web application for job search and skill matching.
+**HTML · Bootstrap · JavaScript · Node.js · Express**
+Full-stack web application for job search and skill matching.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Backend**
-- Java (8 / 17)
-- Spring Boot
-- Spring Batch
+- Java (8 / 17 / 21)
+- Spring Boot · Spring Batch
 - Hibernate
-- REST APIs
+- REST APIs · Microservices
 
 **Frontend**
-- Vaadin
-- Angular (intermediate)
+- Angular 17 · TypeScript
+- Vaadin (legacy)
 
 **Databases**
-- Oracle (PL/SQL)
-- MySQL
-- PostgreSQL
-- MongoDB (academic)
+- Oracle (PL/SQL) · PostgreSQL · MySQL · MongoDB (academic)
 
 **DevOps & Tools**
-- Git
-- Jenkins
-- Flyway
-- Docker (basic)
+- Docker · Jenkins · Flyway · Maven · Git
 
 ---
 
-## 📚 Currently Learning
-- Cloud concepts (AWS)
-- Advanced backend architecture patterns
-- Microservices design
+## 📚 Currently Exploring
+
+- Cloud fundamentals (AWS)
+- Advanced microservices patterns and distributed systems
+- Modern Java (records, virtual threads, pattern matching)
 
 ---
 
-## 🤝 Soft Skills
-- Analytical mindset
-- Strong ownership mentality
-- Clear communication
-- Performance-oriented development
-- Continuous learning attitude
+## 📫 Get in Touch
 
----
-
-## 📫 Contact
-
-Feel free to reach out:
-
-📧 tincho1597lopez@gmail.com
+📧 tincho1597lopez@gmail.com  
